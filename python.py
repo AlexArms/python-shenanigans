@@ -1,4 +1,4 @@
- dog = 'yes'
+cat = 'meow'
 
 print(dog)
 
@@ -22,7 +22,7 @@ arrayTotal = 0
 for items in pythonArray:
   arrayTotal += items
 
-print(arrayTotal)
+fish = 'flippity floppity'
 
 def recursiveReverse(string, iteration):
   letter = string[iteration]
