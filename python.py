@@ -1,4 +1,4 @@
- dog = 'woof'
+ dog = 'yes'
 
 print(dog)
 
